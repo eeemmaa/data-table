@@ -7,8 +7,8 @@ main {
 }
 
 tbody th {
-font-weight: normal;
-font-style: italic;
+  font-weight: normal;
+  font-style: italic;
 }
 
 tfoot {
